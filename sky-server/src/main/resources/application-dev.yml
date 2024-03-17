@@ -11,3 +11,7 @@ sky:
     access-key-id: LTAI5t8r68T9i51EVJ1Mjn7t
     access-key-secret: r6Fvsqz52H6u4FEBVx6Vet3huaapob
     bucket-name: sky-itcast-guoguo
+  redis:
+    host: localhost
+    port: 6379
+    database: 10
